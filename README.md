@@ -18,10 +18,6 @@ This makes the project helpful for learning how CPU execution works internally.
 
 ---
 
-## 📁 Repository Structure
-
----
-
 ## ✨ Features
 
 - 32-bit MIPS architecture simulation  
@@ -29,7 +25,7 @@ This makes the project helpful for learning how CPU execution works internally.
 - Implements 5-stage execution pipeline  
 - Easy to modify instructions via `.txt` files  
 - Written entirely in Python (no external libraries)  
-- Good for learning, debugging, and experimenting with CPU architecture concepts  
+- Great for learning, debugging, and experimenting with CPU architecture concepts  
 
 ---
 
@@ -40,9 +36,7 @@ This makes the project helpful for learning how CPU execution works internally.
 
 ### ▶️ Running the Simulator
 
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/Ahilnandan/Processor.git
    cd Processor
-
-
